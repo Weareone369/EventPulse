@@ -5,6 +5,8 @@ body{
     background-color: #f4f4f4;
     color:#333;
 }
+    
+
 header{
     background-color: #333;
     color: #fff;
@@ -33,7 +35,7 @@ header nav ul li a{
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #fff;
+    color: #333;
 }
 .hero-text {
     text-align: center;
