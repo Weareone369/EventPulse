@@ -30,11 +30,11 @@ header nav ul li a{
     text-decoration: none;
 }
 .hero{
-    background: url(images/hero.jpg); no-repeat center center/cover;
+    background: url("images/image1.jpg"); no-repeat center center/cover;
     height: 500px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content:center;
     color: #333;
 }
 .hero-text {
@@ -61,6 +61,7 @@ header nav ul li a{
     height: auto;
     width: auto;
 }
+
 footer{
     text-align: center;
     padding: 10px 0;
